@@ -6,9 +6,9 @@ end
 
 local NEW_TITLE = "Dark Hub V8 My Ass"
 local LOGO_ID = "rbxassetid://116096605845896"
-local HEADER_BAR_IMG_ID = "rbxassetid://116096605845896"
+local HEADER_BAR_IMG_ID = "rbxassetid://103669312024662"
 local STEAL_TAB_ICON_ID = "rbxassetid://116096605845896"
-local WALLPAPER_IMAGE_ID = "rbxassetid://116096605845896"
+local WALLPAPER_IMAGE_ID = "rbxassetid://103669312024662"
 local c3, u2, u2s, v2, csk = Color3.fromRGB, UDim2.new, UDim2.fromScale, Vector2.new, ColorSequenceKeypoint.new
 local LOGO_BG, BLACK_BG = c3(12, 12, 18), c3(8, 8, 12)
 local MY_URL = "https://raw.githubusercontent.com/napun67/stealanegg/refs/heads/main/chillihubv8.lua"
